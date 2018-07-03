@@ -1,0 +1,8 @@
+{
+	"do_tracking": true,
+	"max_track_seconds": 0.5, 
+	"tracker_type": "MOSSE",
+	"detect_heartrate": true,
+	"keep_person_seconds": 5,
+	"display_fft": false
+}
